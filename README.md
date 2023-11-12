@@ -3,14 +3,13 @@
 # Hello, I'm Waleed Hashim 👋
 
 ## About Me
-I am a passionate Laravel back-end developer with [2] years of experience in web development. I have a strong foundation in PHP and extensive knowledge of the Laravel framework. I enjoy building scalable and efficient web applications, focusing on delivering high-quality code that meets client requirements.
+I am a passionate Laravel back-end developer with 2 years of experience in web development. I have a strong foundation in PHP and extensive knowledge of the Laravel framework. I enjoy building scalable and efficient web applications, focusing on delivering high-quality code that meets client requirements.
 
 ## Skills
 - **Backend Development:** Proficient in PHP and Laravel framework, with a solid understanding of object-oriented programming (OOP) principles.
 - **Database Management:** Experience in working with relational databases like MySQL, as well as query optimization and database design.
 - **RESTful APIs:** Skilled in developing and consuming RESTful APIs, ensuring smooth communication between the front-end and back-end systems.
 - **Version Control:** Familiar with Git and GitHub for efficient collaboration and code versioning.
-- **Testing and Debugging:** Strong ability to write clean and testable code, as well as debugging and troubleshooting skills.
 - **Agile Development:** Experience working in Agile teams, collaborating with front-end developers, designers, and project managers to deliver high-quality products.
 
 ## Projects
