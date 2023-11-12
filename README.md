@@ -15,7 +15,7 @@ I am a passionate Laravel back-end developer with [2] years of experience in web
 
 ## Projects
 - [BLOG CMS ](https://github.com/Waleedx249i/cms-app): A blog website built using PHP and Laravel,
-- [Online shop]([link-to-project](https://github.com/Waleedx249i/store)): A store website developed using PHP, Laravel, Vue.js, Tailwind CSS, and Stripe payment integration. This website offers a seamless shopping experience for customers, with a visually appealing and responsive design. Laravel provides a robust backend framework, while Vue.js enhances interactivity on the frontend. Tailwind CSS ensures a clean and customizable UI. Stripe payment integration enables secure and convenient payment processing for customers, making it easy to complete purchases on the website.
+- [Online shop](https://github.com/Waleedx249i/store): A store website developed using PHP, Laravel, Vue.js, Tailwind CSS, and Stripe payment integration. This website offers a seamless shopping experience for customers, with a visually appealing and responsive design. Laravel provides a robust backend framework, while Vue.js enhances interactivity on the frontend. Tailwind CSS ensures a clean and customizable UI. Stripe payment integration enables secure and convenient payment processing for customers, making it easy to complete purchases on the website.
 
 
 
